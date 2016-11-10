@@ -33,5 +33,9 @@ public class ClockDisplay
 			horas.increment();
 		}
 	}
-
+	
+	public String mostrarFecha() {
+		return horas.getDisplayValue() + ":" + minutos.getDisplayValue();
+	}
+	
 }

@@ -6,4 +6,6 @@ comment1.params=hora1\ minutos1
 comment1.target=void\ fixHour(int,\ int)
 comment2.params=
 comment2.target=void\ incrementMinutes()
-numComments=3
+comment3.params=
+comment3.target=java.lang.String\ mostrarFecha()
+numComments=4
