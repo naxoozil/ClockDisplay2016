@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ClockDisplay()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ClockDisplay\r\n
+comment1.params=hora1\ minutos1
+comment1.target=void\ fixHour(int,\ int)
+comment2.params=
+comment2.target=void\ incrementMinutes()
+numComments=3
